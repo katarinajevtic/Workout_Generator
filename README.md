@@ -1,9 +1,9 @@
 # Workout Generator
 ### Streamlit [Workout Generator](https://appworkoutgenerator.streamlit.app)
 The Workout Generator is a Streamlit-based web application that generates personalized workout plans based on user preferences. It uses the ExerciseDB API to fetch exercises and create workout plans for different body parts. The app allows users to select workout types and duration to receive a customized workout routine.
+![workout_gen](https://github.com/user-attachments/assets/01f84c40-691a-4a36-99b3-707476b5a3fd)
 
 
-![image](https://github.com/user-attachments/assets/1510535b-55e0-4fc4-935d-7ecbe1f37e6a)
 
 ## Features
 + Custom Workout Plans: Select workout types and duration to generate a tailored workout plan.
