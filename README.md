@@ -29,5 +29,7 @@ streamlit run main.py
 4. Click "Generate Workout Plan" to fetch exercises and create your workout plan.
 5. View the workout plan on the screen, complete with exercise details and GIFs.
 6. Download the workout plan as a text file using the "Save Workout Plan" button.
+## License
+This project is licensed under the MIT License. See the [LICENCE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for more details.
 
 
