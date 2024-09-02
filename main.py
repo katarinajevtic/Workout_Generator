@@ -4,7 +4,7 @@ import random
 from io import StringIO
 
 # API Key and types mapping
-API_KEY =  st.secrets["API_KEY"]) # Replace with your RapidAPI key
+API_KEY =  st.secrets["API_KEY"] # Replace with your RapidAPI key
 
 WORKOUT_TYPES = {
     "Cardio": "cardio",
